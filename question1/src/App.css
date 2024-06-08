@@ -1,0 +1,11 @@
+
+.main-box{
+display:flex;
+align-items: center;
+justify-content: center;
+}
+.submit-box{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
